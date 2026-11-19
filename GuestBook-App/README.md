@@ -3,11 +3,6 @@ A guestbook application where visitors can leave messages
 
 **Topics**: PHP, MySQL, AJAX, CSS, Guestbook, Web Development
 
-## Arquitectura en AWS
-
-![alt text](Architectura.png)
-
-
 ## Installation Process
 
 ### AMI LINUX 2023 - Requirements
