@@ -48,6 +48,3 @@ sudo cp -r index.html *.php css js /var/www/html/guestbook/
      ```sh
      http://EC2_PUBLIC_IP/guestbook/
      ```
-
-```
-
