@@ -45,6 +45,6 @@ sudo cp -r index.html *.php css js /var/www/html/guestbook/
       ```
 
 ### **Access the Application:r**
-     ```sh
+
      http://EC2_PUBLIC_IP/guestbook/
-     ```
+
